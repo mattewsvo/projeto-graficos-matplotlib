@@ -3,7 +3,7 @@ Introdução:
 O tema do projeto foi proposto pela faculdade como forma de avaliação individual dos conhecimentos da disciplina de Python. 
 Este projeto desafiador visa consolidar e aplicar os conceitos e habilidades adquiridos ao longo da matéria, proporcionando uma oportunidade única para avaliar a nossa proficiência na linguagem de programação Python. Ao abordar aspectos práticos e desafiadores, o projeto não apenas testa a nossa capacidade técnica, mas também estimula criatividade e resolução de problemas. 
 
-Essa abordagem de avaliação contribuiu significativamente para o um holístico das minhas habilidades, capacitando-me a enfrentar problemas do mundo real por meio da aplicação prática de meus conhecimentos em Python.
+Essa abordagem de avaliação contribuiu significativamente para um crescimento holístico das minhas habilidades, capacitando-me a enfrentar problemas do mundo real por meio da aplicação prática de meus conhecimentos em Python.
 
 
 Definição :
